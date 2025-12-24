@@ -48,6 +48,21 @@ $$
 ![](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)
 ![](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
 
+#### 硬件
+
+![](https://img.shields.io/badge/89C51-000000?logo=arduino&logoColor=fff)
+![](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff)
+![](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff)
+
+#### Web 开发
+
+![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff)
+![](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)
+![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+
 #### 平台
 
 ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
