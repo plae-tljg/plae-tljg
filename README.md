@@ -6,8 +6,6 @@
 
 ---
 
-<img align="right" height="141" src="https://github-readme-stats.vercel.app/api?username=plae-tljg&theme=tokyonight&show_icons=true&count_private=true&hide_border=true">
-
 - 📐 数学专业，前研究生（已退学）。
 - 🐍 主要掌握的语言是 Python。
 - 💻 你能相信有人大三才只知道 MATLAB 吗？（就是我）
@@ -44,10 +42,23 @@ $$
 #### 工具
 
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
+![](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)
+![](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
 
 #### 平台
 
 ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
+![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff)
+![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
+
+#### 徽章
+<p>
+  <img src="assets/img/img02.png" width="200" alt="AI Generated Badge 02" style="display:inline-block; margin-right:16px;">
+  <img src="assets/img/img03.png" width="200" alt="AI Generated Badge 03" style="display:inline-block;">
+</p>
 
 #### 如果你喜欢的话可以试试 😏 
 
@@ -59,4 +70,4 @@ sudo rm -rf /
 ---
 
 ## 我喜欢你，你喜欢我
-![1760673914095.jpeg](1760673914095.jpeg)
+![遥](assets/img/img01.jpeg)
