@@ -31,43 +31,20 @@ $$
 
 其中：$`P`$ = 载荷，$`L`$ = 长度，$`A`$ = 面积，$`E`$ = 弹性模量；$`T`$ = 扭矩，$`J`$ = 极惯性矩，$`G`$ = 剪切模量
 
-#### 编程语言
+<div align="center">
 
-![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff)
-![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
-![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
+#### 技能与技术栈
 
+<img src="assets/img/img_daoist_tech3.png" alt="Technical Skills Visualization" style="max-width: 100%; height: auto;">
 
-#### 工具
+</div>
 
-![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
-![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
-![](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)
-![](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
+#### 能力
 
-#### 硬件
-
-![](https://img.shields.io/badge/89C51-000000?logo=arduino&logoColor=fff)
-![](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff)
-![](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff)
-
-#### Web 开发
-
-![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff)
-![](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)
-![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-
-#### 平台
-
-![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
-![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff)
-![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
+![](https://img.shields.io/badge/%E7%88%B1-FF69B4?logo=heart&logoColor=fff)
+![](https://img.shields.io/badge/%E5%BC%BA%E8%80%85-FFD700?logo=star&logoColor=000)
+![](https://img.shields.io/badge/%E5%94%B1%E6%AD%8C-FF6B9D?logo=music&logoColor=fff)
+![](https://img.shields.io/badge/%E9%80%86%E8%9D%B6-9B59B6?logo=butterfly&logoColor=fff)
 
 #### 徽章
 <p>
@@ -77,12 +54,6 @@ $$
   <img src="assets/img/img05.png" width="200" alt="AI Generated Badge 05" style="display:inline-block;">
   <img src="assets/img/img07.png" width="200" alt="AI Generated Badge 07" style="display:inline-block;">
 </p>
-
-#### 如果你想的话可以试试 😏 
-
-```bash
-sudo rm -rf /
-```
 
 
 ---

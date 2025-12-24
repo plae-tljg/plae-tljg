@@ -1,0 +1,46 @@
+Create a detailed circular mandala-style technical skill visualization that blends traditional Chinese cultivation philosophy with modern programming technologies. The image should be highly detailed, context-rich, and feature legible text in both English and Chinese.
+
+COMPOSITION STRUCTURE:
+- Center: A yin-yang symbol (太极) with "Python" text and logo in the white half, "C/C++" text and logos in the black half. The symbol should have a subtle 3D depth effect.
+
+- Inner Ring (小周天 - Small Heavenly Cycle): 
+  * Label with Chinese text "小周天" at the top of this ring
+  * Classical Mechanics: Display the formula "F = ma" and "E = ½mv²" as glowing equations
+  * Organic Chemistry: Show benzene ring molecular structure with clear chemical notation
+  * Material Science: Include stress-strain diagram with Greek letters σ (sigma) and ε (epsilon) clearly visible
+
+- Middle Ring (大周天 - Large Heavenly Cycle):
+  * Label with Chinese text "大周天" at the top of this ring
+  * Programming Languages section: Display text labels "Python", "C", "C++", "Java" with their respective logos/icons, arranged as glowing runic symbols
+  * Development Tools section: Show icons and text for "VS Code", "Git", "Docker", "PyTorch", "Jupyter", "NumPy" as floating, interconnected icons
+
+- Outer Ring (Technical Realm):
+  * Web Technologies: Create interconnected nodes with clear text labels "React", "Vue.js", "Angular", "HTML5", "CSS3", "JavaScript"
+  * Mobile Development: Display as orbiting satellites with text "Kotlin", "Expo", "Flutter", "Android"
+  * Hardware Platforms: Show as circuit board patterns with text "89C51", "ESP32", "Arduino"
+  * Foundation Layer: Linux penguin icon with "Linux" text, Ubuntu logo with "Ubuntu" text, GitHub octocat with "GitHub" text
+
+VISUAL STYLE:
+- Background: Deep dark blue/black gradient with subtle starfield effect
+- Color Scheme: Neon blue (#00D9FF) and gold (#FFD700) as primary accents, with purple (#9B59B6) and green (#4ECDC4) as secondary colors
+- Energy Streams: Code snippets (like "def", "import", "class") flowing as glowing energy streams between elements
+- Decorative Elements: Traditional Chinese cloud patterns (云纹) in gold, connecting modern tech icons
+- Mathematical Borders: Equations like "∫", "∂", "∇" integrated as decorative borders
+- Particle Effects: Glowing particles representing data flow and energy circulation
+- Typography: All text should be crisp, legible, and properly sized. Use modern sans-serif for English, elegant calligraphy-style for Chinese characters
+
+TECHNICAL DETAILS:
+- Perspective: Isometric/3D isometric view showing depth
+- Lighting: Glowing neon effects with rim lighting on all elements
+- Linework: Intricate, precise lines with varying weights
+- Shadows: Deep shadows to create depth and separation
+- Quality: Professional portfolio quality, highly detailed, suitable for print
+
+TEXT REQUIREMENTS:
+- All technology names must be clearly readable in English
+- Chinese text (小周天, 大周天, 太极) must be elegantly rendered and legible
+- Mathematical symbols and formulas must be accurate and readable
+- Code snippets should use monospace font style
+
+--aspect_ratio 1:1 --image_size 4K --image_only true
+

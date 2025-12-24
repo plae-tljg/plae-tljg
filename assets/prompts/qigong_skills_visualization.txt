@@ -1,0 +1,152 @@
+Create a detailed, academically accurate visualization of traditional Daoist internal alchemy (内丹学) practice, strictly following traditional meridian pathways and acupoint locations, with modern programming technologies integrated as symbolic energy nodes along the traditional paths. The image must maintain traditional accuracy while creatively incorporating tech elements.
+
+CRITICAL CORRECTIONS - MUST FOLLOW:
+1. 金丹 (Golden Core) MUST be at 下丹田 (Lower Dantian: 关元/神阙), NOT at 中丹田 (膻中)
+2. 小周天 = 任督二脉闭合循环 (Complete Ren-Du Vessel Cycle), BOTH pathways are part of 小周天
+3. 大周天 = 全身十二正经循环 (Full Body Twelve Meridians), NOT the 任脉 (任脉 belongs to 小周天)
+4. Correct cultivation order: 筑基 → 小周天 → 大周天 → 结丹(金丹) → 元婴
+5. 上鹊桥 location: between nose and mouth (龈交穴附近), not just at 承浆
+
+COMPOSITION STRUCTURE:
+
+- Human Body Outline:
+  * A human figure in traditional meditation pose (盘坐), seen from front view showing both front and back pathways
+  * Body should be semi-transparent or outlined in traditional Chinese painting style (工笔画), allowing clear visibility of internal energy pathways
+  * Traditional cultivation posture with hands in meditation mudra
+
+- 小周天 (Small Heavenly Cycle - 子午周天) - MUST BE COMPLETE REN-DU CYCLE:
+  * CRITICAL: 小周天 = 任督二脉闭合循环 (Ren-Du Vessel Closed Cycle), BOTH pathways are part of 小周天, NOT separate
+  * This is the PRIMARY energy pathway and MUST form a complete closed loop:
+    - START/END: 会阴 (Huiyin, perineum) - the cycle begins and ends here
+    - UP BACK (督脉 - Governing Vessel, BACK PATHWAY): 会阴 → 尾闾 (Weilü) → 命门 (Mingmen, L4-L5) → 夹脊 (Jiaji, T11-T12) → 玉枕 (Yuzhen, base of skull) → 百会 (Baihui, crown of head)
+    - DOWN FRONT (任脉 - Conception Vessel, FRONT PATHWAY): 百会 → 上鹊桥 (Shangqueqiao, upper bridge, between nose and mouth, near 龈交穴) → 承浆 (Chengjiang, chin) → 膻中 (Danzhong, middle dantian, chest center) → 中脘 (Zhongwan, upper abdomen) → 神阙 (Shenque, navel) → 关元 (Guanyuan, lower dantian) → 会阴 (back to start, completing the cycle)
+  * Use RED/GOLDEN glowing line for 督脉 (back pathway, upward flow) and BLUE/SILVER line for 任脉 (front pathway, downward flow)
+  * Add directional arrows showing energy flow: UP on back (督脉), DOWN on front (任脉)
+  * Label the complete cycle as "小周天" - this includes BOTH 督脉 and 任脉 as one unified cycle
+  * Label key acupoints: 会阴, 尾闾, 命门, 夹脊, 玉枕, 百会, 上鹊桥, 承浆, 膻中, 中脘, 神阙, 关元
+  * Technology integration: Along the 小周天 pathway, place small glowing tech icons as energy nodes (NOT covering the path):
+    - Along 督脉 (back): Python, C, C++ logos as small glowing nodes
+    - Along 任脉 (front): Java, JavaScript logos as small glowing nodes
+    - These should appear as "energy stations" along the path, not replacing it
+
+- 大周天 (Large Heavenly Cycle - 卯酉周天) - MUST SHOW TWELVE MERIDIANS (NOT REN VESSEL):
+  * CRITICAL: 大周天 = 全身十二正经循环 (Full Body Twelve Regular Meridians Cycle), NOT the 任脉
+  * 任脉 is part of 小周天, NOT 大周天
+  * This extends beyond 小周天 to include all twelve regular meridians (十二正经) throughout the entire body:
+    - Hand Three Yin (手三阴): Lung (手太阴肺经), Pericardium (手厥阴心包经), Heart (手少阴心经)
+    - Hand Three Yang (手三阳): Large Intestine (手阳明大肠经), Triple Burner (手少阳三焦经), Small Intestine (手太阳小肠经)
+    - Foot Three Yin (足三阴): Spleen (足太阴脾经), Liver (足厥阴肝经), Kidney (足少阴肾经)
+    - Foot Three Yang (足三阳): Stomach (足阳明胃经), Gallbladder (足少阳胆经), Bladder (足太阳膀胱经)
+  * Each meridian should be shown as a subtle glowing pathway connecting to and extending from the main 小周天
+  * The 大周天 should cover the ENTIRE BODY, showing energy circulating through all limbs and organs
+  * Technology integration: Different tech categories as small nodes along respective meridians:
+    - Hand meridians: Web technologies (React, Vue, Angular) as nodes
+    - Foot meridians: Hardware platforms (89C51, ESP32, Arduino) as nodes
+    - Use different colors for each meridian category
+  * DO NOT label 任脉 as part of 大周天 - 任脉 belongs to 小周天
+
+- Cultivation Stages (修炼境界) - ACCURATE POSITIONING AND ORDER:
+  * CRITICAL: Correct cultivation order is: 筑基 → 小周天 → 大周天 → 结丹(金丹) → 元婴
+  
+  * 筑基 (Foundation Building - Pre-Cycle Stage):
+    - Location: Lower abdomen area, preparing for 小周天
+    - Visual: A glowing foundation platform with foundational technologies (Python, C, C++, Java) as runes/symbols forming the base structure
+    - Label clearly: "筑基" and "Foundation Building"
+    - This is the preparation stage before energy circulation begins
+    - The tech symbols should appear as part of the foundation, not covering acupoints
+  
+  * 小周天 (Small Heavenly Cycle):
+    - This is the energy pathway itself (任督二脉循环), not a stage location
+    - Label the complete cycle clearly as "小周天"
+  
+  * 大周天 (Large Heavenly Cycle):
+    - This is the extended energy network (十二正经循环), not a stage location
+    - Label the network clearly as "大周天"
+  
+  * 金丹 (Golden Core - 下丹田) - CRITICAL CORRECTION:
+    - Location: 关元穴/神阙穴 (Guanyuan/Shenque acupoint) area, LOWER DANTIAN (下丹田), approximately 3-4 finger widths below the navel
+    - CRITICAL ERROR TO AVOID: 金丹 is NOT at 膻中 (middle dantian) - that is WRONG
+    - Visual: A glowing golden sphere/core (the "golden pill") with core development tools (VS Code, Git, Docker, PyTorch, Jupyter, NumPy) as orbiting symbols around the core
+    - Label clearly: "金丹" and "Golden Core" at the LOWER DANTIAN (下丹田/关元/神阙)
+    - The tech symbols orbit around the golden core, not replacing it
+    - This represents "炼精化气" (refining essence into qi) and the formation of the golden core at the lower dantian
+  
+  * 中丹田 (Middle Dantian - 膻中):
+    - Location: 膻中穴 (Danzhong acupoint) area, center of chest between nipples
+    - This is the "炼气化神" (refining qi into spirit) stage, NOT where 金丹 forms
+    - Visual: A glowing energy transformation point, can show development tools as transformation symbols
+    - Label clearly: "中丹田" and "Middle Dantian" or "炼气化神"
+    - DO NOT label this as 金丹 location
+  
+  * 元婴 (Nascent Soul - 上丹田):
+    - Location: 百会穴 (Baihui acupoint) area, crown of head, UPPER DANTIAN (上丹田/泥丸宫)
+    - Visual: A luminous spiritual form/essence with advanced technologies (React, Vue, Angular, Kotlin, Flutter) as ethereal symbols
+    - Label clearly: "元婴" and "Nascent Soul" at the UPPER DANTIAN (上丹田/百会)
+    - Should appear as a transcendent form above the physical, tech symbols as part of the spiritual essence
+    - This represents "炼神还虚" (refining spirit to return to void) stage
+
+- Internal Landscape (内景) - Background Energy Patterns:
+  * Classical Mechanics formulas (F=ma, E=½mv²) as subtle energy patterns in the background, not covering meridians
+  * Organic Chemistry structures (benzene rings) as decorative energy motifs
+  * Material Science symbols (σ, ε) integrated as subtle background patterns
+  * Operating systems (Linux, Ubuntu) and GitHub as foundational symbols at the base/feet area
+  * These should be subtle, atmospheric elements, not interfering with the main pathways
+
+- Technology as Energy Nodes:
+  * All technology elements should appear as:
+    - Small glowing icons/logos along the meridian pathways (as energy stations)
+    - Orbiting symbols around dantian points
+    - Background energy patterns (for academic subjects)
+  * They should ENHANCE the traditional structure, not replace it
+  * Use consistent iconography: recognizable tech logos in glowing, semi-transparent form
+
+VISUAL STYLE:
+- Color Scheme:
+  * Primary: Golden yellow (#FFD700) for energy flows and core cultivation
+  * Secondary: Neon blue (#00D9FF) for technology elements
+  * Accent: Purple (#9B59B6) for advanced stages, Green (#4ECDC4) for foundational elements
+  * Background: Deep dark blue/black with subtle gradients
+- Energy Visualization:
+  * Glowing streams of light representing 炁 (qi/energy) circulation
+  * Particle effects showing energy flow direction
+  * Pulsing, breathing effect to suggest living energy
+  * Technology icons/logos should glow and pulse in sync with energy flow
+- Typography:
+  * Chinese text (筑基, 金丹, 元婴, 小周天, 大周天, 内景, 炁) in elegant calligraphy or traditional font style
+  * English labels in modern sans-serif, clearly readable
+  * Technology names in monospace or tech-style fonts
+  * All text should be crisp, legible, and properly integrated into the design
+- Lighting:
+  * Glowing internal illumination from energy centers (dantians)
+  * Rim lighting on the body outline
+  * Soft ambient glow around technology elements
+  * Dramatic contrast between dark background and bright energy flows
+
+TECHNICAL DETAILS:
+- Perspective: Front view of human figure, showing both front (任脉) and back (督脉) pathways clearly, slightly elevated angle
+- Style: Traditional Chinese painting (工笔画) style for the human body and meridians, with modern glowing tech elements integrated
+- Detail Level: Highly detailed, showing precise acupoint locations and accurate meridian pathways
+- Quality: Professional portfolio quality, suitable for print, academically accurate
+- Anatomical Accuracy: 
+  * Meridian pathways MUST follow traditional Chinese medicine locations exactly
+  * Acupoints must be positioned anatomically correctly
+  * 小周天 path must form a complete, accurate loop
+  * 大周天 must show all twelve meridians connecting properly
+  * Dantian locations must be at correct acupoint positions
+
+TEXT REQUIREMENTS:
+- All cultivation stage names must be clearly readable in Chinese (筑基, 金丹, 元婴)
+- Energy pathway labels (小周天, 大周天) must be elegantly rendered and positioned correctly
+- Key acupoint names (会阴, 尾闾, 命门, 夹脊, 玉枕, 百会, 承浆, 膻中, 神阙, 关元) should be labeled in small text near their locations
+- Technology names should be clearly visible as small labels near their icon nodes
+- Mathematical formulas and chemical structures should be accurate and subtle
+- Dantian locations must be clearly labeled:
+  * 下丹田 (Lower Dantian): 关元/神阙 - where 金丹 forms
+  * 中丹田 (Middle Dantian): 膻中 - transformation stage, NOT 金丹 location
+  * 上丹田 (Upper Dantian): 百会/泥丸宫 - where 元婴 forms
+- Meridian names (督脉, 任脉) should be labeled along their pathways
+- All Chinese text should use elegant calligraphy or traditional font style
+- All English text should be modern, clear, and readable
+
+--aspect_ratio 1:1 --image_size 4K --image_only true
+
