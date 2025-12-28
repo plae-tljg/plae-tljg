@@ -48,17 +48,17 @@ $$
 
 #### 徽章
 <p>
-  <img src="assets/img/img02.png" width="200" alt="AI Generated Badge 02" style="display:inline-block; margin-right:16px;">
   <img src="assets/img/img03.png" width="200" alt="AI Generated Badge 03" style="display:inline-block;">
-  <img src="assets/img/img04.png" width="200" alt="AI Generated Badge 04" style="display:inline-block;">
-  <img src="assets/img/img05.png" width="200" alt="AI Generated Badge 05" style="display:inline-block;">
-  <img src="assets/img/img07.png" width="200" alt="AI Generated Badge 07" style="display:inline-block;">
+  <img src="assets/img/img04.png" width="200" alt="AI Generated Badge 04" style="display:inline-block; margin-right:12px;">
+  <img src="assets/img/img07.png" width="200" alt="AI Generated Badge 07" style="display:inline-block; margin-right:12px;">
 </p>
 
 
 ---
 
 
-## 我喜欢你，你喜欢我
+## 有趣的网页
+
+[我喜欢你，你喜欢我](https://plae-tljg.github.io/i_love_you_web/)  
 
 ![遥](assets/img/img01.jpeg)
