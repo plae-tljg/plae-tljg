@@ -6,9 +6,8 @@
 
 ---
 
-- 📐 数学专业，前研究生（已退学）。
+- 📐 前数学专业。
 - 🐍 主要掌握的语言是 Python。
-- 💻 你能相信有人大三才只知道 MATLAB 吗？（就是我）
 - 👀 对任何事物都感兴趣。
 - 💬 有什么问题可以[在这里](https://github.com/plae-tljg/plae-tljg/issues)问我。✨
 - 📧 联系我：yang.1444.qft@hotmail.com（你可能会惊讶现在还能申请 Hotmail，MSN 还存在吗？）
